@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [my personal blog page](https://github.com/Kaitachi/kaitachi.github.io)
 
-- 🌱 I’m currently learning **Unit Testing, Networking**
-
-- 👯 I’m looking to collaborate on [Insomnia](https://github.com/Kong/insomnia)
+- 🌱 I’m currently learning **CI/CD, Networking**
 
 - 📝 I regularly write articles on [https://kaitachi.github.io/](https://kaitachi.github.io/)
 
-- 💬 Ask me about **C#, Swift, Java**
+- 💬 Ask me about **Golang, Swift, Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
