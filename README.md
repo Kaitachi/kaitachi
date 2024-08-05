@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **CI/CD, Networking**
 
-- 📝 I regularly write articles on [https://kaitachi.github.io/](https://kaitachi.github.io/)
+- 📝 I rarely write articles on [https://kaitachi.github.io/](https://kaitachi.github.io/)
 
-- 💬 Ask me about **Golang, Swift, Java**
+- 💬 Ask me about **Golang, Docker, Developer Tools**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
